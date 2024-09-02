@@ -1,0 +1,12 @@
+colorama
+matplotlib
+numpy
+opencv_python
+Pillow
+PyYAML
+tqdm
+ultralytics
+streamlit
+wandb
+codecarbon
+plotly

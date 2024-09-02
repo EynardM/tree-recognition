@@ -1,0 +1,4 @@
+train: Datasets/train/images
+val: Datasets/valid/images
+nc: 4
+names: ['Other','Larch-H', 'Larch-LD', 'Larch-HD']

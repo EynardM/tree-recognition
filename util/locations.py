@@ -1,0 +1,10 @@
+DATASET_TRAIN_PATH = "Datasets/train"
+DATASET_TEST_PATH = "Datasets/test"
+DATASET_VALID_PATH = "Datasets/valid"
+DATASET_TMP_PATH = "Datasets/tmp"
+DATASET_AUGMENTED_PATH = "Datasets/augmented"
+DATASET_CONCATENATED_PATH = "Datasets/concatenated"
+
+MODELS_TRAIN = "Models/train"
+MODELS_AUGMENTED = "Models/augmented"
+MODELS_CONCATENATED = "Models/CONCATENATED"

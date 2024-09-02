@@ -90,10 +90,11 @@ You can change the batch size to 8 if you are struggling running the training. Y
 Our training process tracks the carbon emissions using the `EmissionsTracker`. This feature monitors CO2 emissions produced during training and converts it to energy consumption (kWh) using the conversion factor `CO2_TO_KWH`.
 
 ## Demo
+
 To test the models on your images, use Streamlit to run the demo:
 `streamlit run front.py`
 
-![](demo.gif)
+![test](demo.gif)
 
 ## Visualizing Results
 
